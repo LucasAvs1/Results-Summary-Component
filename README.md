@@ -1,6 +1,6 @@
 # Results-Summary-Component
- This is a FrontendMento challenge. It’s a HTML and CSS only project.
-References:
+ This is a FrontendMento challenge. It’s a fully HTML and CSS project.
+# References:
 ![Screenshot1](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/itfowh1sglktuzfi7vj6.jpg)
 ![Screenshot2](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/aqbssn4qnnb7jwp9kbw2.jpg)
 
